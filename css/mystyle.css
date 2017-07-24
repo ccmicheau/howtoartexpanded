@@ -1,0 +1,23 @@
+.jumbotron {
+    height: 400px;
+    background:rgb(0,255,0) url("../images/paintingsupplies.jpg") no-repeat center center;
+    background-size: cover; 
+    color: #FFF;
+}
+
+.jumbotron p {
+  color: #9E2F75;
+}
+.navbar{
+  background-color:purple;
+}
+
+.row {
+    width: 100%;
+}
+
+/*.myModal {
+  width: 33.33%;
+  float: left;/*
+}
+
